@@ -1,4 +1,4 @@
-# Data-Aanalysis-on-CardioVascular-Disease
+# Data-Analysis-on-CardioVascular-Disease
 Cardiovascular diseases are the major cause of death globally, taking an estimated 17.9 million lives each year. 
 Currently, India has more than 30 million heart patients. By 2030, almost 23.6 million people will die from 
 CVDs, mainly from heart disease and stroke. These are projected to remain the single leading causes of death.
